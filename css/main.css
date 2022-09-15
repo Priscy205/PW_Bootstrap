@@ -19,5 +19,8 @@ body{
     font-weight:bold;
 }
 
-/*==================Globales=================*/
+/*==================SLIDER DE IMÁGENES=================*/
+.carousel-inner {
+    max-height: 36rem;
+}
 /*==================Globales=================*/
